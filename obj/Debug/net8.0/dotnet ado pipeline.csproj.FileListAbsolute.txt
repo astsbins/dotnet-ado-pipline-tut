@@ -1,0 +1,33 @@
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\appsettings.json
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\dotnet ado pipeline.staticwebassets.runtime.json
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\dotnet ado pipeline.staticwebassets.endpoints.json
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\dotnet ado pipeline.exe
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\dotnet ado pipeline.deps.json
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\dotnet ado pipeline.runtimeconfig.json
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\dotnet ado pipeline.dll
+C:\Users\astsb\Documents\dotnet ado pipeline\bin\Debug\net8.0\dotnet ado pipeline.pdb
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.AssemblyInfoInputs.cache
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.AssemblyInfo.cs
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.csproj.CoreCompileInputs.cache
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.RazorAssemblyInfo.cache
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.RazorAssemblyInfo.cs
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\scopedcss\bundle\dotnet ado pipeline.styles.css
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\scopedcss\projectbundle\dotnet ado pipeline.bundle.scp.css
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets\msbuild.dotnet ado pipeline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets\msbuild.dotnet ado pipeline.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets\msbuild.build.dotnet ado pipeline.props
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.dotnet ado pipeline.props
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.dotnet ado pipeline.props
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.dll
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\refint\dotnet ado pipeline.dll
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.pdb
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\dotnet ado pipeline.genruntimeconfig.cache
+C:\Users\astsb\Documents\dotnet ado pipeline\obj\Debug\net8.0\ref\dotnet ado pipeline.dll
